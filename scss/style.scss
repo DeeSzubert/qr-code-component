@@ -13,13 +13,14 @@ img {
   border-radius: 10px;
 }
 .main_container {
-  height: auto;
+  height: 497px;
   width: 320px;
   border-radius: 20px;
   background-color: var.$bg;
   display: flex;
   flex-direction: column;
   padding: 0 0 2% 0;
+  text-align: center;
 
   h1 {
     color: var.$text_blue;
