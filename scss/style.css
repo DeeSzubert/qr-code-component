@@ -31,7 +31,7 @@ img {
 }
 
 .main_container {
-  width: 25rem;
+  width: 20rem;
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
   display: flex;
