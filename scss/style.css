@@ -31,8 +31,7 @@ img {
 }
 
 .main_container {
-  height: 497px;
-  width: 320px;
+  width: 25rem;
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
   display: flex;
