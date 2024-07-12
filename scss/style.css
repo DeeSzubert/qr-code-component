@@ -10,9 +10,8 @@ html {
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  height: 100vh;
+  min-height: 100vh;
   color: 2c3e50;
-  max-height: 100vh;
   font-size: 15px;
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
@@ -20,16 +19,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 5%;
   background-color: hsl(212, 45%, 89%);
-}
-
-.img {
-  margin: 1rem 1rem 0 1rem;
-  display: inline-block;
 }
 
 img {
   max-width: 100%;
+  margin: 1rem 1rem 0 1rem;
+  display: inline-block;
   border-radius: 10px;
 }
 
